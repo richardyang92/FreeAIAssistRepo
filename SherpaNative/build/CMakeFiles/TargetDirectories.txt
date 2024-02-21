@@ -1,0 +1,3 @@
+/Users/yangyang/Projects/FreeAIAssistRepo/SherpaNative/build/CMakeFiles/sherpa_jni.dir
+/Users/yangyang/Projects/FreeAIAssistRepo/SherpaNative/build/CMakeFiles/edit_cache.dir
+/Users/yangyang/Projects/FreeAIAssistRepo/SherpaNative/build/CMakeFiles/rebuild_cache.dir

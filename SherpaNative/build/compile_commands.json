@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/yangyang/Projects/FreeAIAssistRepo/SherpaNative/build",
+  "command": "/usr/bin/clang++ -Dsherpa_jni_EXPORTS -I/tmp/sherpa-ncnn/static/include -I/Users/yangyang/Library/Java/JavaVirtualMachines/openjdk-20.0.1/Contents/Home/include -I/Users/yangyang/Library/Java/JavaVirtualMachines/openjdk-20.0.1/Contents/Home/include/darwin -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fPIC -o CMakeFiles/sherpa_jni.dir/sherpa_jni.cpp.o -c /Users/yangyang/Projects/FreeAIAssistRepo/SherpaNative/sherpa_jni.cpp",
+  "file": "/Users/yangyang/Projects/FreeAIAssistRepo/SherpaNative/sherpa_jni.cpp",
+  "output": "CMakeFiles/sherpa_jni.dir/sherpa_jni.cpp.o"
+}
+]

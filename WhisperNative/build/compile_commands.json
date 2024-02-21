@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/yangyang/Projects/FreeAIAssistRepo/WhisperNative/build",
+  "command": "/usr/bin/clang++ -Dwhisper_jni_EXPORTS -I/Users/yangyang/Projects/FreeAIAssistRepo/WhisperNative/src/ggml -I/Users/yangyang/Library/Java/JavaVirtualMachines/openjdk-20.0.1/Contents/Home/include -I/Users/yangyang/Library/Java/JavaVirtualMachines/openjdk-20.0.1/Contents/Home/include/darwin -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fPIC -o CMakeFiles/whisper_jni.dir/src/whisper_jni.cpp.o -c /Users/yangyang/Projects/FreeAIAssistRepo/WhisperNative/src/whisper_jni.cpp",
+  "file": "/Users/yangyang/Projects/FreeAIAssistRepo/WhisperNative/src/whisper_jni.cpp",
+  "output": "CMakeFiles/whisper_jni.dir/src/whisper_jni.cpp.o"
+},
+{
+  "directory": "/Users/yangyang/Projects/FreeAIAssistRepo/WhisperNative/build",
+  "command": "/usr/bin/clang++ -Dwhisper_jni_EXPORTS -I/Users/yangyang/Projects/FreeAIAssistRepo/WhisperNative/src/ggml -I/Users/yangyang/Library/Java/JavaVirtualMachines/openjdk-20.0.1/Contents/Home/include -I/Users/yangyang/Library/Java/JavaVirtualMachines/openjdk-20.0.1/Contents/Home/include/darwin -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fPIC -o CMakeFiles/whisper_jni.dir/src/whisper_lite.cpp.o -c /Users/yangyang/Projects/FreeAIAssistRepo/WhisperNative/src/whisper_lite.cpp",
+  "file": "/Users/yangyang/Projects/FreeAIAssistRepo/WhisperNative/src/whisper_lite.cpp",
+  "output": "CMakeFiles/whisper_jni.dir/src/whisper_lite.cpp.o"
+},
+{
+  "directory": "/Users/yangyang/Projects/FreeAIAssistRepo/WhisperNative/build",
+  "command": "/usr/bin/clang++ -Dwhisper_jni_EXPORTS -I/Users/yangyang/Projects/FreeAIAssistRepo/WhisperNative/src/ggml -I/Users/yangyang/Library/Java/JavaVirtualMachines/openjdk-20.0.1/Contents/Home/include -I/Users/yangyang/Library/Java/JavaVirtualMachines/openjdk-20.0.1/Contents/Home/include/darwin -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fPIC -o CMakeFiles/whisper_jni.dir/src/common.cpp.o -c /Users/yangyang/Projects/FreeAIAssistRepo/WhisperNative/src/common.cpp",
+  "file": "/Users/yangyang/Projects/FreeAIAssistRepo/WhisperNative/src/common.cpp",
+  "output": "CMakeFiles/whisper_jni.dir/src/common.cpp.o"
+}
+]
